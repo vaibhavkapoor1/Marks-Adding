@@ -1,5 +1,5 @@
 # Marks-Adding
-Mini Project 4 \n
+Mini Project 4
 In this mini project, we are provided with a csv(Comma Separated Values) file in which the data of various students is present.
 This data has roll numbers corresponding to the marks of different students. 
 The roll numbers are repetitive in the data.
